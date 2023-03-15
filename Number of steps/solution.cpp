@@ -30,8 +30,6 @@ int main()
 
     {
 
-        // c=0;
-
         while (a[i] > min)
 
         {
